@@ -180,3 +180,4 @@ if any(df is not None and not df.empty for df in dfs_dict.values()):
             st.info("لإظهار مقارنة الفترات، يلزم رفع ملفين على الأقل.")
 else:
     st.warning("الرجاء رفع ملف واحد على الأقل لعرض الإحصائيات.")
+
