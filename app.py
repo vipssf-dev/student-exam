@@ -181,3 +181,4 @@ if any(df is not None and not df.empty for df in dfs_dict.values()):
 else:
     st.warning("الرجاء رفع ملف واحد على الأقل لعرض الإحصائيات.")
 
+
